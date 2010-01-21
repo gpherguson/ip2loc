@@ -1,0 +1,8 @@
+A wee bit o' code looking at Ruby, Perl, and Python grabbing a XML file from a
+URL and parsing it and displaying it.
+
+It's supposed to display your location based on information related to your IP
+number, but there are areas where inaccurate information leads the results
+astray. Your mileage might vary. There is no guarantee this works, or doesn't
+work, so use it at your own risk.
+
